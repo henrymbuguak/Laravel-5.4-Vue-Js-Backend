@@ -14,3 +14,7 @@ We are creating a simple shop backend. This data is consumed using frontend fram
 - Run the migration using <b>php artisan migrate</b>.
 - To seed our products we need to use the following command: <b>php artisan db:seed</b>
 - The last thing we need to do is to install passport. run the following command <b>php artisan passport:install</b>
+
+### Conclusion
+
+This project simply serve as our backend, you need to use vue front end to work with this project. Visit <a href="https://github.com/henrymbuguak/Vue-js-Frontend-for-a-Simple-Shop">Vue frontend</a> to download the code.
