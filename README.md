@@ -11,6 +11,6 @@ We are creating a simple shop backend. This data is consumed using frontend fram
 - Clone the project from the rep.
 - Run <b>composer update</b> on your terminal.
 - Configure your database connection on .env
-- Run the migration using <b>php artisan migrate</p>.
-- To seed our products we need to use the following command: <b>php artisan db:seed</p>
+- Run the migration using <b>php artisan migrate</b>.
+- To seed our products we need to use the following command: <b>php artisan db:seed</b>
 - The last thing we need to do is to install passport. run the following command <b>php artisan passport:install</b>
