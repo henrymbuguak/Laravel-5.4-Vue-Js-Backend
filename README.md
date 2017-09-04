@@ -9,7 +9,7 @@ We are creating a simple shop backend. This data is consumed using frontend fram
 ### How to use the project
 
 - Clone the project from the rep.
-- Run <p>composer update</p> on your terminal.
+- Run <b>composer update</b> on your terminal.
 - Configure your database connection on .env
 - Run the migration using <b>php artisan migrate</p>.
 - To seed our products we need to use the following command: <b>php artisan db:seed</p>
